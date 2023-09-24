@@ -1,0 +1,15 @@
+la facteur numero :1
+nome de client: ahmed naciri 
+le prix hors tax : 345.0
+annee limite :2019
+
+la facteur numero :2
+nome de client: elghomary 
+le prix hors tax : 378.0
+annee limite :2020
+
+la facteur numero :3
+nome de client: soukaina 
+le prix hors tax : 456.0
+annee limite :2024
+

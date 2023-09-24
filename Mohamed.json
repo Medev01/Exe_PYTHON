@@ -1,0 +1,14 @@
+{
+    "firstName": "Mohamed",
+    "lastName": "Ouahlou",
+    "Age": 22,
+    "Gender": "Male",
+    "Level": "BAC+4",
+    "IsSingle": "Yes",
+    "Skills": [
+        "Data analyst",
+        "Python",
+        "SQL",
+        "Excel"
+    ]
+}

@@ -1,0 +1,4 @@
+<re.Match object; span=(13, 28), match='Mohamed Ouahlou'>
+<re.Match object; span=(168, 182), match='Master in IPS '>
+<re.Match object; span=(34, 36), match='22'>
+<re.Match object; span=(396, 416), match='medoart949@gamil.com'>
